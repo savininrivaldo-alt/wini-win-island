@@ -1,0 +1,6 @@
+{
+  "name": "WINI WINI ISLAND — Restaurant, Pool, Bar & Destination Lifestyle",
+  "description": "Site officiel de WINI WINI ISLAND à Hio Houta (Togbin, Abomey-Calavi, Bénin). Restaurant sur pilotis, piscine, bar, traversée en pirogue et ambiance tropicale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
